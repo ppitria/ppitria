@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Pitriani 👋
 
-<!--
-**ppitria/ppitria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst** | Bachelor Degree in Informatics Engineering 🎓
 
-Here are some ideas to get you started:
+I studied Informatics Engineering, but I found my real interest in data especially Data Analytics. What began as pure curiosity about digging into datasets is now the career path I'm building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is where I practice and document that journey: personal projects in SQL, Python, and dashboarding, built to learn by doing.
+
+
+## 🔍 What I Do
+
+- Clean, validate, and analyze data using Excel, Google Sheets, and Python (Pandas)
+- Design relational databases and write SQL queries in PostgreSQL
+- Build ETL pipelines to transform operational data into analysis-ready datasets
+- Create interactive dashboards with Power BI and Excel
+- Automate repetitive tasks with Google Apps Script
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+
+## 📂 My Own Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| [Employee Data Management & ETL Pipeline]() | Relational database with 10+ tables and 20,000+ synthetic records, an ETL pipeline, and an HR analytics dashboard | PostgreSQL, Python, SQL, Power BI |
+| [Dashboard Monitoring Progres Penetapan NIP](link-repo) | Interactive dashboard to monitor progress across 15 regional offices and 600+ agencies | Excel, Power Query |
+
+## 🎓 Certification
+
+- BNSP Certificate of Competence: **Data Analyst** (Professional Certification Agency of BPVP Surakarta, 2026)
+
+## 📫 Kontak
+
+[LinkedIn](https://www.linkedin.com/in/pitriani/) · [Email](mailto:pitripitriani173@gmail.com)
