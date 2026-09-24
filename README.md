@@ -28,8 +28,8 @@ This GitHub is where I practice and document that journey: personal projects in 
 
 | Project | Description | Tools |
 |---|---|---|
-| [AI Text Detection for Essay Scoring](https://github.com/ppitria/data-analytics-portfolio/tree/31771b948c4e38fe403756286d20d26964e0f241/ai-text-detection-with-essay-scoring) | Integrates an IndoBERT-based AI text detector with an automated essay scoring system | Python, IndoBERT, NLP |
-| [Employee Data Management & ETL Pipeline](https://github.com/ppitria/data-analytics-portfolio/tree/6d09c6667cf880ae7af6cb9825a88da91a9db0d2/employee-data-management-and-etl-pipeline) | Relational database with 10+ tables and 20,000+ synthetic records, an ETL pipeline, and an HR analytics dashboard | PostgreSQL, Python, SQL, Power BI |
+| [AI Text Detection for Essay Scoring](https://github.com/ppitria/data-analytics-portfolio/tree/main/ai-text-detection-with-essay-scoring) | Integrates an IndoBERT-based AI text detector with an automated essay scoring system | Python, IndoBERT, NLP |
+| [Employee Data Management & ETL Pipeline](https://github.com/ppitria/data-analytics-portfolio/tree/main/employee-data-management-and-etl-pipeline) | Relational database with 10+ tables and 20,000+ synthetic records, an ETL pipeline, and an HR analytics dashboard | PostgreSQL, Python, SQL, Power BI |
 
 
 ## 🎓 Certification
